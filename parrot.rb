@@ -3,5 +3,5 @@
 
 def parrot(goes="Squawk!")
   puts "#{goes}"
-  print "#{goes}"
+  return "#{goes}"
 end
